@@ -33,11 +33,7 @@ Projeyi kendi bilgisayarınızda çalıştırmak için:
 * **ProjectSettings:** Unity proje ayarları.
 * **Packages:** Kullanılan harici paketler ve bağımlılıklar.
 ## 🎮 Oyun içi gösterim.
-
-
 https://github.com/user-attachments/assets/d7babb8f-9b13-459c-850f-07303dfa863f
-
-
 ## ✍️ Yazar
 
 **Hasan Özer** - [GitHub Profilim](https://github.com/HasanOzer0)
